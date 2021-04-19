@@ -1,0 +1,16 @@
+{
+  "posts": [
+    { "id": 1, "title": "title text 1",
+      "body": "RRRRR"
+    },
+    { "id": 2, "title": "title text 2",
+      "body": "RRRRR"
+    },
+    { "id": 3, "title": "title text 3",
+      "body": "RRRRR"
+    }
+  ],
+  "about": {
+    "title": "Страница про нас"
+  }
+}
